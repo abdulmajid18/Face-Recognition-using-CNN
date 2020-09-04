@@ -9,4 +9,4 @@ Chris Evans,
 Robert downey Jr,     
 Tom hardy...
 
-other images can be added to it and updated for more faces recognition
+other images can be added to it and updated for more face recognition
