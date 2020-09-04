@@ -196,8 +196,8 @@ for img in os.listdir(path):
 
 face_identification('/content/chris-evans-hollywood-domino-gala-sunset-tower-hotel-west-hollywood-ca-37285925.jpg')
 #comparing the false positive above to thhe one below 
-# images of correct dimensions mostly cropped ones gives accurate results.
-# getting a quality images is neccessary
+# images with correct dimensions  gives accurate results.
+
 
 face_identification('/content/chris-evans-los-angeles-ca-february-th-annual-academy-awards-dolby-theatre-hollywood-52527049.jpg')
 
